@@ -1,0 +1,10 @@
+[
+  {
+    "op": "add",
+    "path": "/iwrmp_envoyAstreusLore/0/1/pool/-",
+    "value": {
+      "weight": 1,
+      "item": "atprk_21astraeus-codex"
+    }
+  }
+]
