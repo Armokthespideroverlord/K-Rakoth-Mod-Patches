@@ -1,0 +1,61 @@
+{
+  "objectName" : "atprk_arcanaabyssalpin",
+  "colonyTags" : ["atprk_planetpin"],
+  "rarity" : "Common",
+  "description" : "A large pin of an abyssal woods planet.",
+  "shortdescription" : "Abyssal Woods Pin",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 150,
+
+  "apexDescription" : "Navigating abyssal woods is always a challenge, and it doesn't take much to get lost in there.",
+  "avianDescription" : "An abyssal world where the elusive Spectwings dwell under shadowy canopies.",
+  "floranDescription" : "Most abyssal foresssts are too dark and sssteep to ssee any prey. Not a good hunting ground.",
+  "glitchDescription" : "Mesmerized. A mystical forest of towering trees and purple gems.",
+  "humanDescription" : "A dark planet that is mostly covered in dense abyssal woods.",
+  "hylotlDescription" : "A planet of abyssal forests straight out of fairytales, an unsetling yet wonderful sight.",
+  "novakidDescription" : "Only the abyssborn fellas will find these cursed forests cozy.",
+
+  "anneliskDescription" : "...",
+  "fenronDescription" : "...",
+  "noolithDescription" : "...",
+
+  "particleEmitter" : {
+    "emissionRate" : 0.4,
+    "emissionVariance" : 0.2,
+    "pixelOrigin" : [0, 8],
+
+    "particle" : {
+      "type" : "animated",
+      "animation" : "/animations/sparkles/sparkle1.animation",
+      "size" : 1.0,
+      "fade" : 0,
+      "destructionAction" : "shrink",
+      "destructionTime" : 3,
+      "initialVelocity" : [0, 0],
+      "finalVelocity" : [0, 0],
+      "timeToLive" : 1,
+      "layer" : "front"
+    },
+
+    "particleVariance" : {
+      "position" : [0.7, 0.7]
+    }
+  },
+
+  "inventoryIcon" : "atprk_arcanaabyssalpin.png",
+  "orientations" : [
+    {
+      "dualImage" : "atprk_arcanaabyssalpin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

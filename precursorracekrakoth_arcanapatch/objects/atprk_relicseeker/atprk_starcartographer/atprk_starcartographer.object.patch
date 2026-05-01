@@ -69,7 +69,7 @@
 		"op": "add",
 		"path": "/interactData/items/-",
 		"value": {
-			"item": { "name" : "atprk_arcanaanimuspin" },
+			"item": { "name" : "atprk_arcanaabyssalpin" },
 			"prerequisiteQuest" : "arcana_quests_gushenAntique_2"
 		}
 	},
@@ -77,7 +77,7 @@
 		"op": "add",
 		"path": "/interactData/items/-",
 		"value": {
-			"item": { "name" : "atprk_arcanadesolatepin" },
+			"item": { "name" : "atprk_arcanaanimuspin" },
 			"prerequisiteQuest" : "arcana_quests_gushenAntique_2"
 		}
 	},
@@ -254,6 +254,14 @@
 		"path": "/interactData/items/-",
 		"value": {
 			"item": { "name" : "atprk_arcanaardentpin" },
+			"prerequisiteQuest" : "atprk_arcanastarmapquest"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/interactData/items/-",
+		"value": {
+			"item": { "name" : "atprk_arcanadesolatepin" },
 			"prerequisiteQuest" : "atprk_arcanastarmapquest"
 		}
 	},
