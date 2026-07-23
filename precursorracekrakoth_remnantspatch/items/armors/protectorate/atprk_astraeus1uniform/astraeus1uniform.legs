@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "legwear",
-  "description" : "There are very few surviving uniforms from the first Astraeus mission put there.",
+  "description" : "There are very few surviving uniforms from the first Astraeus mission out there.",
   "shortdescription" : "Astraeus Uniform Trousers",
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",
