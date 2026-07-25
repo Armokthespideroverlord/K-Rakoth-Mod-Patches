@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "chestwear",
-  "description" : "This space suit model dates from centuries ago.",
-  "shortdescription" : "Astraeus Space Chestplate",
+  "description" : "This space suit model dates back from centuries ago.",
+  "shortdescription" : "Astraeus Zero-Grav Chestplate",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chest.png",
