@@ -1,0 +1,12 @@
+[
+  { "op": "add", 
+	"path": "/collectables/atprk_chthonicalloy",
+	"value":	 
+	{
+	  "order" : 39,
+	  "title" : "Chthonic Alloy", //(???)",
+	  "description" : "^white;Commonly Found On: ^#837ad7;Boiling Planets^reset; \nA perplexing metal alloy of artificial origin. As it stands, its exact composition defies proper classification, with the sole identified element being Solarium. The alloy is noted to be incredibly enduring and heat-resistant.",
+	  "icon" : "/items/generic/crafting/atprk_chthonicalloy.png"
+	}
+  }
+]

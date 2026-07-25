@@ -1,0 +1,12 @@
+[
+  { "op": "add", 
+	"path": "/collectables/atprk_pixiewand",
+	"value":
+	{
+	  "order" : 53,
+	  "title" : "Pixie Wand",
+	  "description" : "^white;Bought From: ^yellow;Forgotten Mage Tenant^reset; \nAn ornate wand from a bygone era. As the legend goes, the original one was forged by a Glitch sorcerer to command the elusive fair folk. No such creatures are known to exist, but the wand does attract some glowing critters.",
+	  "icon" : "/items/active/weapons/wand/atprk_pixiewand.png"
+	}
+  }
+]

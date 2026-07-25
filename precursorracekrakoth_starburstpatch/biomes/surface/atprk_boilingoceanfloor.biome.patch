@@ -1,12 +1,4 @@
 [	
-	{	"op":"add",
-		"path":"/weather",
-		"value": [
-			[0, [
-			  "/weather.config:atprk_coldashworld"
-			]]
-		]
-	},
     {
         "op": "add",
         "path": "/undergroundPlaceables/items/-",
@@ -20,12 +12,5 @@
                 "pf_pgiDefaultChest"
             ]
         }
-    },
-    {
-        "op": "add",
-        "path": "/statusEffects",
-        "value": [
-            "pf_biomecoldmild"
-        ]
     }
 ]
