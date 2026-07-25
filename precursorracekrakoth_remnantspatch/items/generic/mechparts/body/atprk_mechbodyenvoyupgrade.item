@@ -7,7 +7,7 @@
   "tooltipKind" : "mechbody",
   "builder" : "/items/buildscripts/buildmechpart.lua",
   "inventoryIcon" : "atprk_mechbodyenvoyupgrade.png",
-  "description" : "A resilient mech body, able to withstand dimensional anomalies even!",
+  "description" : "A resilient mech body, able to withstand even dimensional anomalies!",
   "shortdescription" : "MkII Envoy Mech Body",
   "itemTags" : [ ],
 
